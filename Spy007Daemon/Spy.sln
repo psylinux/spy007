@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+# SharpDevelop 3.0.0.2737
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Spy007", "Spy007\Spy007.csproj", "{745D42A5-4AD2-4201-82A3-6CD73DD80989}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SpyApplication", "SpyApplication\SpyApplication.csproj", "{1E13C8B4-B105-44DC-B168-7CF16BEDB835}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "SpySetup", "SpySetup\SpySetup.vdproj", "{64CF298D-3739-4841-8134-F3DFFDA12148}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{745D42A5-4AD2-4201-82A3-6CD73DD80989}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{745D42A5-4AD2-4201-82A3-6CD73DD80989}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{745D42A5-4AD2-4201-82A3-6CD73DD80989}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{745D42A5-4AD2-4201-82A3-6CD73DD80989}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1E13C8B4-B105-44DC-B168-7CF16BEDB835}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1E13C8B4-B105-44DC-B168-7CF16BEDB835}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1E13C8B4-B105-44DC-B168-7CF16BEDB835}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1E13C8B4-B105-44DC-B168-7CF16BEDB835}.Release|Any CPU.Build.0 = Release|Any CPU
+		{64CF298D-3739-4841-8134-F3DFFDA12148}.Debug|Any CPU.ActiveCfg = Debug
+		{64CF298D-3739-4841-8134-F3DFFDA12148}.Release|Any CPU.ActiveCfg = Release
+		{64CF298D-3739-4841-8134-F3DFFDA12148}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{64CF298D-3739-4841-8134-F3DFFDA12148}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
