@@ -2,7 +2,7 @@
 
 ## Introdução
 
-Projeto apresentado como atividade da matéria de `Engenharia de Software`, aue faz parte da grade curricular do `Mestrado em Ciência da Computação` na `Universidade Federal de Goiás`.
+Projeto apresentado como atividade da matéria de `Engenharia de Software`, que faz parte da grade curricular do `Mestrado em Ciência da Computação` na `Universidade Federal de Goiás`.
 
 ## Propósito do Projeto
 
